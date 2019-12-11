@@ -5,7 +5,7 @@ sudo:
   - true
 
 os:
-  - linux
+  - osx
 
 dist:
   - bionic
